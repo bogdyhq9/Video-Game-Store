@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1686152812 source:c:\oop2023\lab9-10\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	"test.h"
+	"ui.h"
+
+1683487489 source:c:\oop2023\lab9-10\videogame.cpp
+	"videogame.h"
+	<string.h>
+	<iostream>
+
+1686149696 c:\oop2023\lab9-10\videogame.h
+	<iostream>
+
+1684229241 c:\oop2023\lab9-10\test.h
+
+1686149696 source:c:\oop2023\lab9-10\test.cpp
+	"videogame.h"
+	"repo.h"
+	"service.h"
+	"filerepo.h"
+	<assert.h>
+	<string.h>
+
+1686149696 source:c:\oop2023\lab9-10\repo.cpp
+	"repo.h"
+	<vector>
+	"videogame.h"
+
+1686149696 c:\oop2023\lab9-10\repo.h
+	<vector>
+	"videogame.h"
+	<iostream>
+
+1686149696 source:c:\oop2023\lab9-10\service.cpp
+	"service.h"
+	"exception.h"
+	"filerepo.h"
+	<string.h>
+	"validator.h"
+
+1686149696 c:\oop2023\lab9-10\service.h
+	"filerepo.h"
+
+1686149696 source:c:\oop2023\lab9-10\ui.cpp
+	<iostream>
+	<string.h>
+	<limits>
+	"ui.h"
+	"exception.h"
+
+1686149696 c:\oop2023\lab9-10\ui.h
+	"service.h"
+
+1686149696 c:\oop2023\lab9-10\filerepo.h
+	"repo.h"
+	<string.h>
+	<fstream>
+
+1684777991 c:\oop2023\lab9-10\exception.h
+	"exception"
+	<string.h>
+
+1686149696 c:\oop2023\lab9-10\validator.h
+	"exception.h"
+
